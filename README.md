@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+안녕하세요! 열심히 개발 공부하고 있는 정동균입니다 :)
 <!--
 **DongKyunJung/DongKyunJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
